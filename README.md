@@ -19,14 +19,14 @@ A simple web app that lets you upload an image and try common image operations (
    # Windows PowerShell
    .\.venv\Scripts\activate
    
-## Install dependencies:
+3. Install dependencies:
 ```bash
 
 pip install -r requirements.txt
 
 ```
 
-## Run the app:
+4. Run the app:
 
 ```bash
 
@@ -36,7 +36,7 @@ streamlit run app.py
 Open the URL shown in the terminal (usually http://localhost:8501)
 
 
-##Features (one-liner)
+5. Features (one-liner)
 
 Upload images, preview original vs processed.
 
